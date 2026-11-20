@@ -54,7 +54,10 @@ Areas explored during preparation and participation included:
 
 ### Practical Preparation
 
-[Attack & Defense CTF Home Lab](https://github.com/rosinss/attack-defense-ctf-homelab)
+### Practical Preparation
+
+- [Attack & Defense CTF Home Lab](https://github.com/rosinss/attack-defense-ctf-homelab)
+- [Attack & Defense Final Round Experience](./attack-defense/README.md)
 
 ## 04 / Tools & Technologies
 
