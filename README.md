@@ -24,7 +24,7 @@ Each write-up aims to explain the challenge, investigation process, tools, metho
 
 | Competition | Achievement | Documentation |
 | --- | --- | --- |
-| iHack CTF 2026 | Attack & Defense Finalist | In progress |
+| [iHack CTF 2026](./ihack-2026/README.md) | Attack & Defense Finalist | [View Write-ups](./ihack-2026/) |
 | PINK+ CTF 2026 | Rank 274 — 260 Points | In progress |
 | SpookyCTF 2026 | Participant | In progress |
 | Bits n Bytes CTF | Participant | Pending |
