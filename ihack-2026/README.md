@@ -36,7 +36,7 @@ The qualification round provided hands-on experience in several cybersecurity do
 
 | Challenge | Category | Technique | Status |
 | --- | --- | --- | --- |
-| Oldschool | Cryptography | RSA Integer Cube-Root Attack | Solved |
+| [Oldschool](./crypto/oldschool/README.md) | Cryptography | RSA Integer Cube-Root Attack | Solved |
 
 ## 03 / Attack & Defense Final Round
 
